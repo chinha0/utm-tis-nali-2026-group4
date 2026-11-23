@@ -71,7 +71,7 @@ The Smart Education Terminal is an integrated classroom management solution desi
 It serves as the heart of TENDZONE's Smart Classroom solution, reducing complicated equipment setups and making classroom management easier.
 
 <p align="center">
-  <img src="media/smart-education-terminal.jpg" width="80%" alt="TENDZONE Smart Education Terminal"/>
+  <img src="media/photo_2026-11-23_19-02-05.jpg" width="80%" alt="TENDZONE Smart Education Terminal"/>
 </p>
 
 ### ⚙️ Key Features
