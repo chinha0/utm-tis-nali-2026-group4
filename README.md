@@ -200,27 +200,6 @@ This assignment helped me develop a better understanding of several important ar
 - Cybersecurity
 - Digital Transformation
 
-## 📂 Repository Structure
-
-```text
-NALI-2026-Reflection-Koh-Chin-Hao/
-│
-├── README.md
-│
-├── media/
-│   ├── smart-education-terminal.jpg
-│   ├── nali-2026-event.jpg
-│   └── interview-session.jpg
-│
-├── documentation/
-│   ├── project-overview.md
-│   ├── individual-reflection.md
-│   └── learning-outcomes.md
-│
-└── references/
-    └── references.md
-```
-
 ## 🙏 Acknowledgement
 
 I would like to express my sincere appreciation to Universiti Teknologi Malaysia, the NALI 2026 organisers, Ms Syahirah Adnan and all the innovators who shared their knowledge and experiences during the event.
